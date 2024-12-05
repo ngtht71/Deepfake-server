@@ -18,3 +18,4 @@ flask
 flask-cors
 dlib==19.24.1
 face-recognition>=1.3.0
+cmake

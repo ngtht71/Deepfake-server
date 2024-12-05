@@ -1,6 +1,7 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
+cmake
 torch>=1.8.0
 torchvision>=0.9.0
 numpy>=1.18.5
@@ -18,4 +19,3 @@ flask
 flask-cors
 dlib==19.24.1
 face-recognition>=1.3.0
-cmake

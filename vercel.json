@@ -12,5 +12,5 @@
       "dest": "app.py"
     }
   ],
-  "buildCommand": "python -m pip install --upgrade pip"
+  "buildCommand": "python -m pip install --upgrade pip && curl -s https://www.python.org/ftp/python/3.10.12/Python-3.10.12.tgz | tar xz && cd Python-3.10.12 && ./configure && make && make install"
 }

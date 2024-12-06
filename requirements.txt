@@ -1,8 +1,8 @@
 # pip install -r requirements.txt
 # python3.8 environment
 
-cmake==3.30.5
-dlib==19.24.2
+# cmake==3.30.5
+# dlib==19.24.2
 face-recognition
 Flask
 Flask-Cors

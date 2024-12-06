@@ -12,7 +12,5 @@
       "dest": "app.py"
     }
   ],
-  "env": {
-    "BUILD_PACKAGES": "cmake, build-essential"
-  }
+  "buildCommand": "python -m pip install --upgrade pip"
 }
